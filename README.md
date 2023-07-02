@@ -7,3 +7,7 @@ to use it, just open it with a code editor, click CTRL + A then CTRL + C, then i
 
 s2
 
+# image
+
+![0.jpg](https://github.com/XZNX5/jagoyaw-leaked-nl/raw/main/0.jpg)
+
